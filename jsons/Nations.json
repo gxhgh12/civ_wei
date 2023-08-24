@@ -28,7 +28,8 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "Art of War",
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"],
 		"cities": ["낙양","장안","하내","중산","남피","북해","낭야","하비","동해",
 			"담현","허창","수양","수춘","합비","양양","강릉","건업","단양","예장",
 			"건안","남해","익주","장사","천릉","창오","합포","무릉","강양","장가",
